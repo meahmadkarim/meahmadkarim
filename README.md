@@ -1,8 +1,10 @@
 # Ahmad Karim
 
-**Python Developer | Web Applications, Data Preparation & Applied Machine Learning**
+**Artificial Intelligence • Data Analysis • Machine Learning**
 
-My work focuses on Python web applications, structured data, and practical machine-learning experiments. This portfolio includes a Django hackathon prototype, database coursework, and programming projects.
+My focus is AI, data analysis and machine learning, supported by Python programming and full-stack web development. My portfolio brings together data preparation, machine-learning exercises, relational databases and web applications.
+
+I developed SecondServe, a Django prototype for campus meal planning and surplus sharing, with rule-based demand estimates, reservations and pickup workflows.
 
 ## Selected projects
 
