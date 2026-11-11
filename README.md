@@ -1,39 +1,28 @@
 # Ahmad Karim
 
-**Artificial Intelligence • Data Analysis • Machine Learning**
+**Developing machine-learning projects, analysing data and building Python-powered applications.**
 
-My focus is AI, data analysis and machine learning, supported by Python programming and full-stack web development. My portfolio brings together data preparation, machine-learning exercises, relational databases and web applications.
+My focus is artificial intelligence, data analysis and machine learning, supported by Python programming and full-stack web development. My work connects data preparation and model evaluation with databases and usable applications.
 
-I developed SecondServe, a Django prototype for campus meal planning and surplus sharing, with rule-based demand estimates, reservations and pickup workflows.
+I developed **SecondServe**, a Django prototype for campus meal planning and surplus sharing. My portfolio also includes classification and regression exercises, SQL coursework and a Java application.
 
-## Selected projects
+## Selected work
 
-### [SecondServe — Campus Meal Planning & Surplus Sharing](https://github.com/meahmadkarim/Cursor_Hackathon)
-A Django hackathon prototype with student, kitchen, and administrator workflows; meal intentions; surplus reservations; pickup verification; and reporting.
-
-- **Technologies:** Python, Django, SQLite, HTML, CSS, and JavaScript.
-- **Technical evidence:** role and ownership checks, transactional inventory handling, and an automated test suite.
-- **Status:** prototype using synthetic demonstration data. Its demand estimate uses configurable rules, not a trained machine-learning model.
-
-### [Hospital Management Database](https://github.com/meahmadkarim/Hospital_Management_System)
-A PostgreSQL coursework project modelling hospital operations through related tables, constraints, indexes, reporting queries, views, functions, and triggers.
-
-- **Focus:** relational database design and SQL.
-- **Status:** an educational database project, not a deployed clinical application.
-
-### [Library Management System](https://github.com/meahmadkarim/Java_OOP_Library_Management_System)
-A Java OOP semester project for managing books, members, borrowing, returns, and console reports.
-
-- **Focus:** interfaces, abstract classes, inheritance, encapsulation, and polymorphism.
-- **Status:** console application with in-memory storage; records do not persist between sessions.
+| Project | What to inspect | Status |
+| --- | --- | --- |
+| [SecondServe](https://github.com/meahmadkarim/secondserve) | Role-based workflows, transactional reservations, pickup verification and 52 passing tests | Working local prototype; synthetic demo data and rule-based demand estimates |
+| [Movie Rating Prediction](https://github.com/meahmadkarim/MOVIE-RATING-PREDICTION-WITH-PYTHON) | Train-only preprocessing, random-forest regression and comparison with a simple baseline | Runnable educational pipeline |
+| [Iris Classification](https://github.com/meahmadkarim/IRIS-FLOWER-CLASSIFICATION) | Reproducible classification, stratified split and baseline evaluation | Runnable learning exercise |
+| [Hospital Management Database](https://github.com/meahmadkarim/Hospital_Management_System) | Relational schema, SQL reports, functions, triggers and billing regression check | PostgreSQL coursework |
+| [Java Library Management](https://github.com/meahmadkarim/Java_OOP_Library_Management_System) | OOP design, borrowing rules and inventory regression check | Console application; in-memory storage |
 
 ## Technical focus
 
-- **Web development:** Python, Django, relational data, and server-rendered applications.
-- **Data preparation:** pandas, NumPy, cleaning, and preprocessing.
-- **Applied machine learning:** scikit-learn learning exercises in classification and regression.
+- **Data analysis and machine learning:** Python, pandas, NumPy, scikit-learn, preprocessing and evaluation.
+- **Application development:** Django, SQL, SQLite, PostgreSQL, HTML, CSS and JavaScript.
+- **Software foundations:** Java, object-oriented programming, validation and automated testing.
 
-Older ML notebooks are learning exercises with documented evaluation and reproducibility improvements still needed. They are not production systems or validated research results.
+The repository READMEs distinguish original coursework, current implementations and AI-assisted maintenance. The [chatbot](https://github.com/meahmadkarim/Topical_Chatbot), [facial-expression](https://github.com/meahmadkarim/facial-expression-classification) and [road-turn detection](https://github.com/meahmadkarim/road-turn-detection-yolov5) experiments document their remaining data or training limitations. They are not presented as production AI systems.
 
 ## Connect
 
